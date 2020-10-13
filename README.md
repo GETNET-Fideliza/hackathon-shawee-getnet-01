@@ -6,7 +6,7 @@ O empreendedor pode usar a solução, além das máquinas POS DIGITAL da Getnet,
 
 ### 🔗 Links
 
-- Canal: [Youtube]([Fideliza - YouTube](https://www.youtube.com/channel/UCHwZAhE024bWT-EsHsqX_pw))
+- Canal: [Fideliza - YouTube](https://www.youtube.com/channel/UCHwZAhE024bWT-EsHsqX_pw)
 - Video Pitch: [Youtube](https://www.youtube.com/watch?v=NQAi_OUKhpg)
 - Video navegação no app: [Video](https://www.loom.com/share/90e566b777d240a5943618c0cf7e7c5a)
 - Protótipo: [Figma](https://www.figma.com/proto/5DgVVpFgIACodRrhqOtjNX/GETNET?node-id=0%3A1)
@@ -22,7 +22,7 @@ O empreendedor pode usar a solução, além das máquinas POS DIGITAL da Getnet,
 ## ## 💪 Time
 
 - Daniel Leite (Designer) [LinkedIn](https://www.linkedin.com/in/daniel-leite-aa17b843/) . [Behance](https://www.behance.net/danielrodrigo)
-- Léo Morais (Business) [LinkedIn](https://www.linkedin.com/in/leohmoraes/)
+- Léo Moraes (Business) [LinkedIn](https://www.linkedin.com/in/leohmoraes/) . . [GitHub](https://github.com/leohmoraes)
 - Everton Ferreira (Dev) [LinkedIn](https://www.linkedin.com/in/evertonferreira96/)
 - Sávio Sucar (Marketing) [Linkedin](https://www.linkedin.com/in/diagosucar/)
 - Rafael Souza (Dev) - Anápolis/GO - [LinkedIn](https://www.linkedin.com/in/rafaelbleidi/) . [GitHub](https://github.com/bleidi)
