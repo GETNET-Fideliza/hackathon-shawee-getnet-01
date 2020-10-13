@@ -22,7 +22,7 @@ O empreendedor pode usar a solução, além das máquinas POS DIGITAL da Getnet,
 ## ## 💪 Time
 
 - Daniel Leite (Designer) [LinkedIn](https://www.linkedin.com/in/daniel-leite-aa17b843/) . [Behance](https://www.behance.net/danielrodrigo)
-- Léo Moraes (Business) [LinkedIn](https://www.linkedin.com/in/leohmoraes/) . . [GitHub](https://github.com/leohmoraes)
-- Everton Ferreira (Dev) [LinkedIn](https://www.linkedin.com/in/evertonferreira96/)
+- Léo Moraes (Business) [LinkedIn](https://www.linkedin.com/in/leohmoraes/) . [GitHub](https://github.com/leohmoraes)
+- Everton Ferreira (Dev) [LinkedIn](https://www.linkedin.com/in/evertonferreira96/) . [GitHub](https://github.com/EvertonFerreira96)
 - Sávio Sucar (Marketing) [Linkedin](https://www.linkedin.com/in/diagosucar/)
 - Rafael Souza (Dev) - Anápolis/GO - [LinkedIn](https://www.linkedin.com/in/rafaelbleidi/) . [GitHub](https://github.com/bleidi)
